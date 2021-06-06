@@ -53,6 +53,6 @@ public class AccountApp {
             
         }//while
         sc.close();
-    }
+    }// 6/6 작성
 
 }
